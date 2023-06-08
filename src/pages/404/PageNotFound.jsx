@@ -1,8 +1,7 @@
 import React from "react";
 
 import "./style.scss";
-
-import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
+import ContentWrapper from "../../components/ContentWrapper/ContentWrapper";
 
 const PageNotFound = () => {
     return (
