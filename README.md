@@ -1,6 +1,7 @@
 # Movix Movie App
 
-# Website : [Movix-Movie-App](https://your-app-url.com)
+# Website : [Movix-Movie-App](https://movix-net.vercel.app/)
+
 
 <img src="/src/assets/movix-logo.png" alt="Movix Logo" width="50" height="50">
 
